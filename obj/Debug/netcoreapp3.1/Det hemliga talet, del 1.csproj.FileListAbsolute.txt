@@ -1,0 +1,26 @@
+C:\Users\awikl\source\repos\Hermods-Uppgifter\Det hemliga talet, del 1\bin\Debug\netcoreapp3.1\Det hemliga talet, del 1.exe
+C:\Users\awikl\source\repos\Hermods-Uppgifter\Det hemliga talet, del 1\bin\Debug\netcoreapp3.1\Det hemliga talet, del 1.deps.json
+C:\Users\awikl\source\repos\Hermods-Uppgifter\Det hemliga talet, del 1\bin\Debug\netcoreapp3.1\Det hemliga talet, del 1.runtimeconfig.json
+C:\Users\awikl\source\repos\Hermods-Uppgifter\Det hemliga talet, del 1\bin\Debug\netcoreapp3.1\Det hemliga talet, del 1.runtimeconfig.dev.json
+C:\Users\awikl\source\repos\Hermods-Uppgifter\Det hemliga talet, del 1\bin\Debug\netcoreapp3.1\Det hemliga talet, del 1.dll
+C:\Users\awikl\source\repos\Hermods-Uppgifter\Det hemliga talet, del 1\bin\Debug\netcoreapp3.1\Det hemliga talet, del 1.pdb
+C:\Users\awikl\source\repos\Hermods-Uppgifter\Det hemliga talet, del 1\obj\Debug\netcoreapp3.1\Det hemliga talet, del 1.AssemblyInfoInputs.cache
+C:\Users\awikl\source\repos\Hermods-Uppgifter\Det hemliga talet, del 1\obj\Debug\netcoreapp3.1\Det hemliga talet, del 1.AssemblyInfo.cs
+C:\Users\awikl\source\repos\Hermods-Uppgifter\Det hemliga talet, del 1\obj\Debug\netcoreapp3.1\Det hemliga talet, del 1.csproj.CoreCompileInputs.cache
+C:\Users\awikl\source\repos\Hermods-Uppgifter\Det hemliga talet, del 1\obj\Debug\netcoreapp3.1\Det hemliga talet, del 1.dll
+C:\Users\awikl\source\repos\Hermods-Uppgifter\Det hemliga talet, del 1\obj\Debug\netcoreapp3.1\Det hemliga talet, del 1.pdb
+C:\Users\awikl\source\repos\Hermods-Uppgifter\Det hemliga talet, del 1\obj\Debug\netcoreapp3.1\Det hemliga talet, del 1.genruntimeconfig.cache
+C:\Users\awikl\source\repos\Hermods-Uppgifter\Det hemliga talet, del 1\obj\Debug\netcoreapp3.1\Det hemliga talet, del 1.csprojAssemblyReference.cache
+C:\Users\awikl\source\repos\Hermods-Uppgifter\Uppdrag 1\Det hemliga talet, del 1\bin\Debug\netcoreapp3.1\Det hemliga talet, del 1.exe
+C:\Users\awikl\source\repos\Hermods-Uppgifter\Uppdrag 1\Det hemliga talet, del 1\bin\Debug\netcoreapp3.1\Det hemliga talet, del 1.deps.json
+C:\Users\awikl\source\repos\Hermods-Uppgifter\Uppdrag 1\Det hemliga talet, del 1\bin\Debug\netcoreapp3.1\Det hemliga talet, del 1.runtimeconfig.json
+C:\Users\awikl\source\repos\Hermods-Uppgifter\Uppdrag 1\Det hemliga talet, del 1\bin\Debug\netcoreapp3.1\Det hemliga talet, del 1.runtimeconfig.dev.json
+C:\Users\awikl\source\repos\Hermods-Uppgifter\Uppdrag 1\Det hemliga talet, del 1\bin\Debug\netcoreapp3.1\Det hemliga talet, del 1.dll
+C:\Users\awikl\source\repos\Hermods-Uppgifter\Uppdrag 1\Det hemliga talet, del 1\bin\Debug\netcoreapp3.1\Det hemliga talet, del 1.pdb
+C:\Users\awikl\source\repos\Hermods-Uppgifter\Uppdrag 1\Det hemliga talet, del 1\obj\Debug\netcoreapp3.1\Det hemliga talet, del 1.csprojAssemblyReference.cache
+C:\Users\awikl\source\repos\Hermods-Uppgifter\Uppdrag 1\Det hemliga talet, del 1\obj\Debug\netcoreapp3.1\Det hemliga talet, del 1.AssemblyInfoInputs.cache
+C:\Users\awikl\source\repos\Hermods-Uppgifter\Uppdrag 1\Det hemliga talet, del 1\obj\Debug\netcoreapp3.1\Det hemliga talet, del 1.AssemblyInfo.cs
+C:\Users\awikl\source\repos\Hermods-Uppgifter\Uppdrag 1\Det hemliga talet, del 1\obj\Debug\netcoreapp3.1\Det hemliga talet, del 1.csproj.CoreCompileInputs.cache
+C:\Users\awikl\source\repos\Hermods-Uppgifter\Uppdrag 1\Det hemliga talet, del 1\obj\Debug\netcoreapp3.1\Det hemliga talet, del 1.dll
+C:\Users\awikl\source\repos\Hermods-Uppgifter\Uppdrag 1\Det hemliga talet, del 1\obj\Debug\netcoreapp3.1\Det hemliga talet, del 1.pdb
+C:\Users\awikl\source\repos\Hermods-Uppgifter\Uppdrag 1\Det hemliga talet, del 1\obj\Debug\netcoreapp3.1\Det hemliga talet, del 1.genruntimeconfig.cache
