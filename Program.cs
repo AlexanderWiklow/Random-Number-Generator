@@ -11,8 +11,26 @@ namespace Det_hemliga_talet__del_1
             Random randomerare = new Random();
             int slump_tal = randomerare.Next(1, 101);
 
-            // Skriver ut talet till användaren
-            Console.WriteLine(slump_tal);
+            // Ber användaren om input som sedan sparas i en variabel
+            Console.WriteLine("Skriv in ett tal");
+            int tal = int.Parse(Console.ReadLine());
+
+            // Tre if-satser med olika villkor
+            if (tal > slump_tal)
+            {
+                Console.WriteLine("Du gissade för högt!");
+            }
+            else if (tal < slump_tal)
+            {
+                Console.WriteLine("Du gissade för lågt!");
+            }
+            else
+            {
+                Console.WriteLine("Grattis du gissade rätt!");
+            }
+
         }
     }
 }
+
+
